@@ -65,8 +65,8 @@ JavaScript | Node.js | ReactJS | React Native | HTML | CSS | Git
 
 First Header | Second Header
 ------------ | -------------
-- :pushpin: Living in **Avaré**, **São Paulo**, **Brazil** | - :briefcase: Full Stack Software Engineer at **Datasmart**
+:pushpin: Living in **Avaré**, **São Paulo**, **Brazil** | :briefcase: Full Stack Software Engineer at **Datasmart**
 
-- :books: Graduate in **Analysis and Systems Development** | :mortar_board: Postgraduate in **Web Application Development**
+:books: Graduate in **Analysis and Systems Development** | :mortar_board: Postgraduate in **Web Application Development**
 
-- :rocket: Full Stack Student at **Rocketseat** | :dart: Focused in **Node.JS**, **ReactJS** and **React Native**
+:rocket: Full Stack Student at **Rocketseat** | :dart: Focused in **Node.JS**, **ReactJS** and **React Native**
