@@ -15,7 +15,6 @@
   >
     <img src="https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=Github&logoColor=white" />
   </a>
-
   <a
     href="https://www.linkedin.com/in/osvaldokalvaitir" 
     alt="LinkedIn"
@@ -23,7 +22,6 @@
   >
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
-
   <a
     href="https://web.whatsapp.com/send?phone=+5514997275133" 
     alt="WhatsApp"
@@ -31,7 +29,6 @@
   >
     <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=WhatsApp&logoColor=white" />
   </a>
-
   <a
     href="https://www.kalvaitir.com"
     alt="Kalvaitir"
