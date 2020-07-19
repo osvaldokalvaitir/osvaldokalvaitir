@@ -66,6 +66,6 @@ JavaScript | Node.js | ReactJS | React Native | HTML | CSS | Git
 
 :pushpin: Living in **Avaré**, **São Paulo**, **Brazil** _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ :briefcase: Full Stack Software Engineer at **Datasmart**
 
-:books: Graduate in **Analysis and Systems Development** _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ :mortar_board: Postgraduate in **Web Application Development**
+:books: Graduate in **Analysis and Systems Development** _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ :mortar_board: Postgraduate in **Web Application Development**
 
-:rocket: Full Stack Student at **Rocketseat** _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ :dart: Focused in **Node.JS**, **ReactJS** and **React Native**
+:rocket: Full Stack Student at **Rocketseat** _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ :dart: Focused in **Node.JS**, **ReactJS** and **React Native**
