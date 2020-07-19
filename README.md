@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-🚀 Full Stack Software Engineer | JavaScript | Node.js | ReactJS | React Native
+JavaScript | Node.js | ReactJS | React Native | HTML | CSS | Git
 </p>
 
 <p align="center">
@@ -58,3 +58,19 @@
     <img src="https://img.shields.io/badge/-Instagram-28A745?style=flat-square&logo=Instagram&logoColor=white" />
   </a>
 </p>
+
+------
+
+### Hey, I'm Osvaldo! :wave:
+
+- :pushpin: Living in **Avaré**, **São Paulo**, **Brazil**
+
+- :briefcase: Full Stack Software Engineer at **Datasmart**
+
+- :books: Graduate in **Analysis and systems development**
+
+- :mortar_board: Postgraduate in **Web Application Development**
+
+- :rocket: Full Stack Student at **Rocketseat**
+
+- :dart: Focused in **Node.JS**, **ReactJS** and **React Native**
