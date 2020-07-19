@@ -63,7 +63,7 @@ JavaScript | Node.js | ReactJS | React Native | HTML | CSS | Git
 
 ### Hey, I'm Osvaldo! :wave:
 
-First Header | Second Header
+
 ------------ | -------------
 :pushpin: Living in **Avaré**, **São Paulo**, **Brazil** | :briefcase: Full Stack Software Engineer at **Datasmart**
 
