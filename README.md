@@ -59,7 +59,7 @@ JavaScript | Node.js | ReactJS | React Native | HTML | CSS | Git
   </a>
 </p>
 
---
+---
 
 ### Hey, I'm Osvaldo! :wave:
 
