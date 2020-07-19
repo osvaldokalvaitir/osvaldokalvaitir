@@ -11,8 +11,9 @@
   <a
     href="https://www.kalvaitir.com"
     alt="Kalvaitir"
+    target="blank"
   >
-    <img src="https://img.shields.io/badge/-kalvaitir.com-28A745?style=flat-square" />
+    <img src="https://img.shields.io/badge/-kalvaitir.com-28A745?style=flat-square&logo=microsoft-edge&logoColor=white" />
   </a>
   <a
     href="https://web.whatsapp.com/send?phone=+5514997275133" 
