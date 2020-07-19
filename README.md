@@ -63,14 +63,17 @@ JavaScript | Node.js | ReactJS | React Native | HTML | CSS | Git
 
 ### Hey, I'm Osvaldo! :wave:
 
-- :pushpin: Living in **Avaré**, **São Paulo**, **Brazil**
-
-- :briefcase: Full Stack Software Engineer at **Datasmart**
-
-- :books: Graduate in **Analysis and Systems Development**
-
-- :mortar_board: Postgraduate in **Web Application Development**
-
-- :rocket: Full Stack Student at **Rocketseat**
-
-- :dart: Focused in **Node.JS**, **ReactJS** and **React Native**
+<table>
+    <tr>
+        <td>:pushpin: Living in **Avaré**, **São Paulo**, **Brazil**</td>
+        <td>:books: Graduate in **Analysis and Systems Development**</td>
+    </tr>
+    <tr>
+        <td>:briefcase: Full Stack Software Engineer at **Datasmart**</td>
+        <td>:mortar_board: Postgraduate in **Web Application Development**</td>
+    </tr>
+    <tr>
+        <td>:rocket: Full Stack Student at **Rocketseat**</td>
+        <td>:dart: Focused in **Node.JS**, **ReactJS** and **React Native**</td>
+    </tr>
+</table>
