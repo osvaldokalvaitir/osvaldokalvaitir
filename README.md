@@ -63,17 +63,32 @@ JavaScript | Node.js | ReactJS | React Native | HTML | CSS | Git
 
 ### Hey, I'm Osvaldo! :wave:
 
+<table class="tab">
+  <tr>
+    <td class="first">first row</td>
+  </tr>
+  <tr>
+    <td class="second">second row</td>
+  </tr>
+</table>​​​
+
+<style>
+.tab {border-collapse:collapse;}
+.tab .first {border-bottom:1px solid #EEE;}
+.tab .second {border-top:1px solid #CCC;box-shadow: inset 0 1px 0 #CCC;}​
+</style>
+
 <table style="border: none">
     <tr>
-        <td>:pushpin: Living in **Avaré**, **São Paulo**, **Brazil**</td>
-        <td>:books: Graduate in **Analysis and Systems Development**</td>
+        <td>:pushpin: Living in <bold>Avaré</bold>, <bold>São Paulo</bold>, <bold>Brazil</bold></td>
+        <td>:books: Graduate in <bold>Analysis and Systems Development</bold></td>
     </tr>
     <tr>
-        <td>:briefcase: Full Stack Software Engineer at **Datasmart**</td>
-        <td>:mortar_board: Postgraduate in **Web Application Development**</td>
+        <td>:briefcase: Full Stack Software Engineer at <bold>Datasmart</bold></td>
+        <td>:mortar_board: Postgraduate in <bold>Web Application Development</bold></td>
     </tr>
     <tr>
-        <td>:rocket: Full Stack Student at **Rocketseat**</td>
-        <td>:dart: Focused in **Node.JS**, **ReactJS** and **React Native**</td>
+        <td>:rocket: Full Stack Student at <bold>Rocketseat</bold></td>
+        <td>:dart: Focused in <bold>Node.JS</bold>, <bold>ReactJS</bold> and <bold>React Native</bold></td>
     </tr>
 </table>
