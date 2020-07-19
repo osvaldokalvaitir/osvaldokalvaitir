@@ -63,7 +63,7 @@ JavaScript | Node.js | ReactJS | React Native | HTML | CSS | Git
 
 ### Hey, I'm Osvaldo! :wave:
 
-<table cellspacing="0" cellpadding="0">
+<table style="border: none">
     <tr>
         <td>:pushpin: Living in **Avaré**, **São Paulo**, **Brazil**</td>
         <td>:books: Graduate in **Analysis and Systems Development**</td>
