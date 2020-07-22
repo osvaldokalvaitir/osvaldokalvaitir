@@ -63,7 +63,7 @@ JavaScript | Node.js | ReactJS | React Native | HTML | CSS | Git
   Hey, I'm Osvaldo! 👋
 </h4>
 <p align="center">
-  📌 Living in <bold>Avaré</bold>, <bold>São Paulo</bold>, <bold>Brazil</bold>
+  📌 Living in <b>Avaré</b>,<b>São Paulo</b>, <bold>Brazil</bold>
 </p>
 <p align="center">
   💼 FullStack Software Engineer at <bold>Datasmart</bold>
