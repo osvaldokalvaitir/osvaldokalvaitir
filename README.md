@@ -59,13 +59,12 @@ JavaScript | Node.js | ReactJS | React Native | HTML | CSS | Git
   </a>
 </p>
 
-
-##
-
-### Hey, I'm Osvaldo! :wave:
-
-:pushpin: Living in **Avaré**, **São Paulo**, **Brazil** _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ :books: Graduate in **Analysis and Systems Development**
-
-:briefcase: FullStack Software Engineer at **Datasmart** _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ :mortar_board: Postgraduate in **Web Application Development**
-
-:dart: Focused in **Node.JS**, **ReactJS** and **React Native** _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ :rocket: Full Stack Student at **Rocketseat**
+<p align="center">
+  <h4>Hey, I'm Osvaldo! 👋</h4>
+  <p>📌 Living in <bold>Avaré</bold>, <bold>São Paulo</bold>, <bold>Brazil</bold></p>
+  <p>💼 FullStack Software Engineer at <bold>Datasmart</bold></p>
+  <p>📚 Graduate in <bold>Analysis and Systems Development</bold></p>
+  <p>🎓 Postgraduate in <bold>Web Application Development</bold></p>
+  <p>🚀 Full Stack Student at <bold>Rocketseat</bold></p>
+  <p>🎯 Focused in <bold>Node.JS</bold>, <bold>ReactJS</bold> and <bold>React Native</bold></p>
+<p>
