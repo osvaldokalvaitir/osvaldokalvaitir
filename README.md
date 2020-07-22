@@ -69,5 +69,5 @@
   📚 Graduate in <b>Analysis and Systems Development</b> 🎓 Postgraduate in <b>Web Application Development</b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 </p>
 <p align="center">
-  &nbsp; &nbsp; 🚀 Full Stack Student at <b>Rocketseat</b> 🎯 Focused in <b>Node.JS</b>, <b>ReactJS</b> and <b>React Native</b>
+  &nbsp; &nbsp; &nbsp; 🚀 Full Stack Student at <b>Rocketseat</b> 🎯 Focused in <b>Node.JS</b>, <b>ReactJS</b> and <b>React Native</b>
 </p>
