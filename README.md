@@ -59,12 +59,24 @@ JavaScript | Node.js | ReactJS | React Native | HTML | CSS | Git
   </a>
 </p>
 
+<h4 align="center">
+  Hey, I'm Osvaldo! 👋
+</h4>
 <p align="center">
-  <h4>Hey, I'm Osvaldo! 👋</h4>
-  <p>📌 Living in <bold>Avaré</bold>, <bold>São Paulo</bold>, <bold>Brazil</bold></p>
-  <p>💼 FullStack Software Engineer at <bold>Datasmart</bold></p>
-  <p>📚 Graduate in <bold>Analysis and Systems Development</bold></p>
-  <p>🎓 Postgraduate in <bold>Web Application Development</bold></p>
-  <p>🚀 Full Stack Student at <bold>Rocketseat</bold></p>
-  <p>🎯 Focused in <bold>Node.JS</bold>, <bold>ReactJS</bold> and <bold>React Native</bold></p>
-<p>
+  📌 Living in <bold>Avaré</bold>, <bold>São Paulo</bold>, <bold>Brazil</bold>
+</p>
+<p align="center">
+  💼 FullStack Software Engineer at <bold>Datasmart</bold>
+</p>
+<p align="center">
+  📚 Graduate in <bold>Analysis and Systems Development</bold>
+</p>
+<p align="center">
+  🎓 Postgraduate in <bold>Web Application Development</bold>
+</p>
+<p align="center">
+  🚀 Full Stack Student at <bold>Rocketseat</bold>
+</p>
+<p align="center">
+  🎯 Focused in <bold>Node.JS</bold>, <bold>ReactJS</bold> and <bold>React Native</bold>
+</p>
