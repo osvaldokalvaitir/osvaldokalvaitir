@@ -66,7 +66,7 @@
   📌 Living in <b>Avaré</b>, <b>São Paulo</b>, <b>Brazil</b> &nbsp; 💼 FullStack Software Engineer at <b>Datasmart</b>
 </p>
 <p align="center">
-  📚 Graduate in <b>Analysis and Systems Development</b> &nbsp; 🎓 Postgraduate in <b>Web Application Development in Java</b>
+  📚 Graduate in <b>Analysis and Systems Development</b> &nbsp; 🎓 Postgraduate in <b>Web Application Development in Java</b> &nbsp;
 </p>
 <p align="center">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🚀 Full Stack Student at <b>Rocketseat</b> &nbsp; 🎯 Focused in <b>Node.JS</b>, <b>ReactJS</b> and <b>React Native</b>
