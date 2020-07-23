@@ -63,11 +63,11 @@
   Hey, I'm Osvaldo! 👋
 </h4>
 <p align="center">
-  📌 Living in <b>Avaré</b>, <b>São Paulo</b>, <b>Brazil</b> 💼 FullStack Software Engineer at <b>Datasmart</b>
+  Living in <b>Avaré</b>, <b>São Paulo</b>, <b>Brazil</b> 📌 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 💼 FullStack Software Engineer at <b>Datasmart</b>
 </p>
 <p align="center">
-  📚 Graduate in <b>Analysis and Systems Development</b> 🎓 Postgraduate in <b>Web Application Development</b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  Graduate in <b>Analysis and Systems Development</b> 📚 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🎓 Postgraduate in <b>Web Application Development</b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 </p>
 <p align="center">
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🚀 Full Stack Student at <b>Rocketseat</b> 🎯 Focused in <b>Node.JS</b>, <b>ReactJS</b> and <b>React Native</b>
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Full Stack Student at <b>Rocketseat</b> 🚀 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🎯 Focused in <b>Node.JS</b>, <b>ReactJS</b> and <b>React Native</b>
 </p>
