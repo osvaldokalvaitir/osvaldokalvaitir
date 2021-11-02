@@ -63,7 +63,7 @@
   Hey, I'm Osvaldo! 👋
 </h4>
 <p align="center">
-  📌 Living in <b>Avaré</b>, <b>São Paulo</b>, <b>Brazil</b> &nbsp; 💼 FullStack Software Engineer at <b>Datasmart</b>
+  📌 Living in <b>Avaré</b>, <b>São Paulo</b>, <b>Brazil</b> &nbsp; 💼 Tech Lead and FullStack Software Engineer at <b>Datasmart</b>
 </p>
 <p align="center">
   📚 Graduate in <b>Analysis and Systems Development</b> &nbsp; 🎓 Postgraduate in <b>Web Application Development in Java</b> &nbsp;
