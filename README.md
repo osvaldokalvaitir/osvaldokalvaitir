@@ -60,7 +60,7 @@
 </p>
 
 <h4 align="center">
-  Hey, I'm Osvaldo!👋
+  Hey, I'm Osvaldo! 👋
 </h4>
 <p align="center">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 📌 Living in <b>Avaré</b>, <b>São Paulo</b>, <b>Brazil</b> &nbsp; 💼 Tech Lead and FullStack Software Engineer at <b>Datasmart</b>
