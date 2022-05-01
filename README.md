@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/osvaldokalvaitir/osvaldokalvaitir/blob/main/.github/assets/logo.png" width="500"
+  <img src="/.github/assets/logo.png" width="500px"
   alt="Kalvaitir.com" />
 </p>
 
