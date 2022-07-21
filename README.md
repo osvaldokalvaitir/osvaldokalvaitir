@@ -75,7 +75,7 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="430em" align="center" src="https://github-readme-stats.vercel.app/api?username=osvaldokalvaitir&count_private=true&show_icons=true&theme=dark&&bg_color=transparent" />
-    <img width="360em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osvaldokalvaitir&layout=compact&theme=dark" />
+    <img width="430em" align="center" src="https://github-readme-stats.vercel.app/api?username=osvaldokalvaitir&count_private=true&show_icons=true&theme=dark&bg_color=#22272E&icon_color=28A745" />
+    <img width="360em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osvaldokalvaitir&layout=compact&theme=darkk&bg_color=#22272E" />
   </a>
 </p>
