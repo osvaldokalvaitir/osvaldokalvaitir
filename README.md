@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  JavaScript | Node.js | ReactJS | React Native | HTML | CSS | Bootstrap | Git
+  JavaScript | TypeScript | Node.js | ReactJS | React Native
 </p>
 
 <p align="center">
