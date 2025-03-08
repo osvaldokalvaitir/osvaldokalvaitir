@@ -34,7 +34,8 @@
     alt="GitHub"
     target="blank"
   >
-    <img src="https://img.shields.io/badge/-GitHub-28A745?style=flat&logo=Github&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GitHub-28A745?style=flat
+&logo=Github&logoColor=white" />
   </a>
   <a
     href="https://www.facebook.com/osvaldokalvaitir" 
@@ -56,7 +57,7 @@
   Hey, I'm Osvaldo! 👋
 </h4>
 <p align="center">
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 📌 Living in <b>Avaré</b>, <b>São Paulo</b>, <b>Brazil</b> &nbsp; 💼 FullStack Software Engineer at <b>Prisma Promotora</b>
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 📌 Living in <b>Avaré</b>, <b>São Paulo</b>, <b>Brazil</b> &nbsp; 💼 Senior FullStack Software Engineer at <b>Prisma Promotora</b>
 </p>
 <p align="center">
   📚 Graduate in <b>Analysis and Systems Development</b> &nbsp; 🎓 Postgraduate in <b>Web Application Development in Java</b> &nbsp;
