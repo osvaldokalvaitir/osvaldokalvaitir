@@ -65,11 +65,3 @@
 <p align="center">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🚀 Full Stack Student at <b>Rocketseat</b> &nbsp; 🎯 Focused in <b>Node.JS</b>, <b>ReactJS</b>, <b>React Native</b>, <b>Python</b> and <b>IA</b>
 </p>
-
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="430em" align="center" src="https://github-readme-stats.vercel.app/api?username=osvaldokalvaitir&count_private=true&show_icons=true&include_all_commits=true&theme=dark" />
-    <img width="360em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osvaldokalvaitir&layout=compact&theme=dark" />
-  </a>
-</p>
